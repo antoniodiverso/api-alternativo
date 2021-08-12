@@ -1,0 +1,10 @@
+{
+    "carrito":[
+        {
+            "id_compra":"",
+            "metodo_pago":"",
+            "precio_total":"",
+            "peso total":""
+        }
+    ]
+}

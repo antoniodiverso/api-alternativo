@@ -1,0 +1,55 @@
+[
+{
+    "nombre":"Espada Electrica BF FIE",
+    "id": "EspBFFIE",
+    "categoria":"Espada completa",
+    "peso": 700,
+    "precio": 140
+},
+
+{
+    "nombre":"Espada Electrica Estokada",
+    "id": "EspEsto",
+    "categoria":"Espada completa",
+    "peso": 700,
+    "precio": 50
+},
+
+{
+    "nombre":"Chaqueta Absolute 800NW",
+    "id": "ChaqAbs800",
+    "categoria":"Chaqueta",
+    "peso": 500,
+    "precio": 120
+},
+
+{
+    "nombre":"Chaqueta El Pepe",
+    "id": "ChaqElPepe",
+    "categoria":"Chaqueta",
+    "peso": 200,
+    "precio": 30
+},
+
+{
+    "nombre":"Careta Allstar 1600NW",
+    "id": "CaretAlls1600",
+    "categoria":"Careta",
+    "peso": 400,
+    "precio": 150
+},
+
+{
+    "nombre":"Careta PBT 350NW",
+    "id": "CaretPBT350",
+    "categoria":"Careta",
+    "peso": 400,
+    "precio": 50
+}
+
+
+
+
+
+
+]

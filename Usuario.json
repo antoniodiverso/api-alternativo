@@ -1,0 +1,12 @@
+{
+    "usuario":[
+        {
+            "nombre":"",
+            "apellido":"",
+            "direccion":"",
+            "mail":"",
+            "id":""
+        }
+    ]
+}
+

@@ -1,0 +1,26 @@
+[
+    {
+        "nombre": "PBT",
+        "id": 1,
+        "avalado por fie": true
+    },
+
+    {
+        "nombre": "Estokada",
+        "id": 2,
+        "avalado por fie": false
+    },
+
+    {
+        "nombre": "Absolute Fencing",
+        "id": 3,
+        "avalado por fie": true
+    },
+
+    {
+        "nombre": "Allstar Fencing",
+        "id": 4,
+        "avalado por fie": true
+    }
+
+]
